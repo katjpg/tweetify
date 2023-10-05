@@ -168,15 +168,15 @@ Post-extraction, the dataset was processed using `jq` to create a JSON output (s
 
 #### Implications:
 1. **Divergent Listening Behaviors:**
-  - Discrepancies in musical attributes (e.g., danceability, valence) between Twitter and Billboard highlight variances in listening and sharing behaviors across platforms.
-  - Billboard's elevated danceability and valence may signal a mainstream preference for upbeat, positive tracks, contrasting with the broader array of tracks shared on Twitter.
+   - Discrepancies in musical attributes (e.g., danceability, valence) between Twitter and Billboard highlight variances in listening and sharing behaviors across platforms.
+   - Billboard's elevated danceability and valence may signal a mainstream preference for upbeat, positive tracks, contrasting with the broader array of tracks shared on Twitter.
 
 2. **Musical Composition Insights:**
-  - Correlation differences in musical attributes, such as energy and acousticness, between platforms hint at distinct compositional trends.
+   - Correlation differences in musical attributes, such as energy and acousticness, between platforms hint at distinct compositional trends.
 
 3. **Genre Popularity Disparities:**
-  - Despite "rap" and "pop" being popular across both platforms, variations in rankings and subsequent genres indicate differentiated genre popularity and representation.
-  - Twitter’s genre distribution might mirror individualized user preferences, while Billboard could reflect more generalized or mainstream tastes.
+   - Despite "rap" and "pop" being popular across both platforms, variations in rankings and subsequent genres indicate differentiated genre popularity and representation.
+   - Twitter’s genre distribution might mirror individualized user preferences, while Billboard could reflect more generalized or mainstream tastes.
 
 ## Recommendations for Future Research
 
